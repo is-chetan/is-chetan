@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **full-stack web apps**
+- 🔭 I’m currently working on **full-stack projects**
 - 🌱 I’m learning **React, Next.js, TypeScript, MongoDB**
 - 📫 Reach me at: [chetaniniit@gmail.com]
 
@@ -32,6 +32,14 @@
 
 ### 🌐 Connect with me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/sharmachetan07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chetaniniit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sharmachetan07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chetaniniit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/MrCSharma2" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
 </p>
+
