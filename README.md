@@ -8,16 +8,14 @@
 ---
 
 - 🔭 I’m currently working on **full-stack web apps**
-- 🌱 I’m learning **Next.js, TypeScript, MongoDB**
-- 💬 Ask me about **React, APIs, Firebase**
-- 📫 Reach me at: [your-email@example.com]
-- 🧠 Exploring AI + Web3 + Open Source
+- 🌱 I’m learning **React, Next.js, TypeScript, MongoDB**
+- 📫 Reach me at: [chetaniniit@gmail.com]
 
 ---
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,react,nextjs,nodejs,mongodb,git,github,vscode" />
 </div>
 
 ---
@@ -33,6 +31,6 @@
 
 ### 🌐 Connect with me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sharmachetan07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chetaniniit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
