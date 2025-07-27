@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=java,c" />
 </div>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,mongodb,git,github,vscode,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,mongodb,git,github,vscode,sql, postman" />
 </div>
 
 ---
