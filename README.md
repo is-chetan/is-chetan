@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=is-chetan&show_icons=true&theme=tokyonight" alt="is-chetan stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=is-chetan&theme=tokyonight" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=is-chetan&theme=tokyonight" alt="GitHub Streak" /> -->
 </p>
 
 ---
