@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **full-stack projects**
 - 🌱 I’m learning **React, Next.js, TypeScript, MongoDB**
-- 📫 Reach me at: [chetaniniit@gmail.com]
+- 📫 Reach me at: [chetansharma2135@gmail.com]
 
 ---
 
